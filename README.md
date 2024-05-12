@@ -33,5 +33,5 @@ Leonardo.AI：
 ## 📂 Localização de arquivos:
 
 - Imagens utilizadas estão em `imgs`
-- Meu ebook está em `PDFebook` ou acesso diretamente em [Guia para Tags HTML](chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index.html)
+- Meu ebook está em `PDFebook` ou acesso diretamente em [Guia para Tags HTML]("chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index.html")
 
