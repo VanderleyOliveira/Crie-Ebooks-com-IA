@@ -30,7 +30,7 @@ Leonardo.AI：
 - [Leonardo.ai](https://leonardo.ai)
 - [Canva](https://www.canva.com)
 
-## 📂 Arquivos usados:
+## 📂 Localização de arquivos:
 
 - Imagens utilizadas estão em `imgs`
-- Meu Ebook criado está em `PDFebook`
+- Meu ebook está em `PDFebook`
