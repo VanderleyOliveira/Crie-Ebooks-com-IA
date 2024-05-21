@@ -1,6 +1,6 @@
 # Criando um e-book com I.A
 
-![Capa do Ebook](imgs/Capa do ebook.png)
+![Capa do Ebook](./imgs/Capa%20do%20ebook.png)
 
 Todos os detalhes das ferramentas, prompts e imagens que usei no meu ebook estão descritos logo abaixo:
 
